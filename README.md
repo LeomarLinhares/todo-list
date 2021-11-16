@@ -10,9 +10,9 @@ Projeto feito para unir as habilidades com HTML, CSS e JavaScript. Trata-se de u
 
 ### 1. Clone o repositório
 
-- `git clone git@github.com:LeomarLinhares/front-end-online-store.git`
+- `git clone git@github.com:LeomarLinhares/todo-list.git`
 - Entre na pasta do repositório que você acabou de clonar:
-  - `cd front-end-online-store`
+  - `cd todo-list`
 
 ### 2. Instale as dependências e inicialize o projeto
 
